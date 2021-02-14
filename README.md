@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mohamed-abidi-919505192/">@MohamedAbidi</a> 
 - 👯 I’m looking to collaborate on new projects.
-- Engineer Student at Higher Institute of Informatics of Ariana
+- Engineering Student at Higher Institute of Informatics of Ariana
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabidi97&layout=compact)
