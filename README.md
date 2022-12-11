@@ -1,5 +1,6 @@
 Hi 👋 My name is Mohamed Abidi
 ==============================
+![mohamedabidi97](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mohamedabidi97)
 
 Full Stack Machine Learning Engineer
 ------------------------------------
