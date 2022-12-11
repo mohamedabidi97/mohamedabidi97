@@ -32,6 +32,12 @@ Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-t
 <p align="left"> <a href="https://www.github.com/mohamedabidi97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohamed_abidiii/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamed-abidi-919505192/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13149592/abidi-mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<b>Kaggle</b>
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/discussion)
 
 <b>My GitHub Stats</b>
 
