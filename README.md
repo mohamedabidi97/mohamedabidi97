@@ -39,9 +39,11 @@ Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-t
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/discussion)
 
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mohamedabidi97"><img src="https://github-readme-stats.vercel.app/api?username=mohamedabidi97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohamedabidi97's GitHub stats" /></a>
+
 
 <b>Top Repositories</b>
 
