@@ -2,7 +2,7 @@ Hi 👋 My name is Mohamed Abidi
 ==============================
 ![mohamedabidi97](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mohamedabidi97)
 
-Software Engineer/ Data Scientist
+Software Engineer / Data Scientist
 ------------------------------------
 
 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit.
