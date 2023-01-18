@@ -34,7 +34,7 @@ Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-t
 ### Badges
 <b>Kaggle</b>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedabidi97/discussion)
