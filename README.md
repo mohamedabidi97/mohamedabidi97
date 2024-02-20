@@ -6,7 +6,7 @@ Software Engineer / Data Scientist
 
 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit.
 
-*   🌍  I'm based in Kuala Lumpur now.
+*   🌍  I'm based in Tunisia.
 *   ✉️  You can contact me at [abidi.contact@gmail.com.](mailto:abidi.contact@gmail.com.)
 *   🚀  I'm currently working on [my Kaggle profile.](http://www.kaggle.com/mohamedabidi97)
 *   🧠  I'm learning MLOps.
